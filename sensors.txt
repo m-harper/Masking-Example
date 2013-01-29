@@ -1,0 +1,14 @@
+11100000 |
+87654321 |
+
+Driver not on seat		= 1
+Driver seat beat not fastened 	= 2
+Engine running			= 3
+Doors closed			= 4
+Key in car			= 5
+Door lock lever			= 6
+Brake pedal			= 7
+Car moving 			= 8
+
+00000000 |
+87654321 |
